@@ -1,5 +1,5 @@
-import { ServerEnvironmentType } from "../common/common-types";
-import { getEnvironmentType } from "../common/env-utils";
+import { ServerEnvironmentType } from "../../common/common-types";
+import { getEnvironmentType } from "../../common/env-utils";
 
 const dir = process.cwd() + "/logger";
 const getLogFile = () =>
