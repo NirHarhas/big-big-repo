@@ -1,0 +1,19 @@
+{
+  "name": "big-big-repo",
+  "version": "1.0.0",
+  "description": "Testing big repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NirHarhas/big-big-repo.git"
+  },
+  "author": "Nir Harhas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NirHarhas/big-big-repo/issues"
+  },
+  "homepage": "https://github.com/NirHarhas/big-big-repo#readme"
+}
